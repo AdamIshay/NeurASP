@@ -18,7 +18,7 @@ conda install -c potassco clingo
 ## Installation
 Clone this repo:
 ```
-git clone https://github.com/azreasoners/NeurASP
+git clone https://github.com/zhunyoung/NeurASP
 cd NeurASP
 ```
 
